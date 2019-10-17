@@ -21,17 +21,45 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
-  
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
-  
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+   [[content.filter_button]]
+     name = "Matrix Completion"
+     tag = "*"
+     
+   [[content.filter_button]]
+     name = "Recommendation System"
+     tag = "*"
+     
+  [[content.filter_button]]
+    name = "Deep Learning"
+    tag = "*"
+    
+  [[content.filter_button]]
+    name = "Kernel methods"
+    tag = "*"
+    
+  [[content.filter_button]]
+    name = "Image Processing"
+    tag = "*" 
+    
+  [[content.filter_button]]
+    name = "Semi-supervised Learning"
+    tag = "*"
+    
+  [[content.filter_button]]
+    name = "Dimensionality Reduction"
+    tag = "*"
+
+[[content.filter_button]]
+    name = "Subspace Clustering"
+    tag = "*"
+    
+    [[content.filter_button]]
+    name = "Statistical Process Control"
+    tag = "*"
+    
+    [[content.filter_button]]
+    name = "Neuro Signal Processing"
+    tag = "*"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -74,4 +102,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
 
