@@ -25,11 +25,11 @@ date_format = "Jan 2006"
   date_start = "2018-10-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  Research:
   
   * Matrix/tensor factorization and recovery
   * High-rank models in machine learning and computer vision
-  * A D3M (Data-Driven Discovery of Models) project of DARPA 
+  * A D3M (Data-Driven Discovery of Models) program of DARPA 
   """
 
 [[experience]]
@@ -48,9 +48,8 @@ date_format = "Jan 2006"
   date_start = "2013-09-01"
   date_end = "2015-08-01"
   description = """
-  Responsibilities include:
-  
-  * Signal/image processing and data analysis in neuroscience, physiology, and meditation
+  Research:
+  signal/image processing and data analysis in neuroscience, physiology, and meditation
   """
   
 

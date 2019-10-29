@@ -43,12 +43,12 @@ url_code: 'https://github.com/MachineLearningRick/Online-high-rank-matrix-comple
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
-# url_slides: ''
+# url_slides: '#'
 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image: 
+image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
   preview_only: false

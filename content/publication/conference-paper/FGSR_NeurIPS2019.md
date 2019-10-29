@@ -38,7 +38,7 @@ featured: true
 
 links:
 
-url_pdf: '#'
+url_pdf: 'FGSR'
 url_code: 'https://github.com/udellgroup/Codes-of-FGSR-for-effecient-low-rank-matrix-recovery'
 # url_dataset: '#'
 # url_poster: '#'
@@ -49,7 +49,7 @@ url_code: 'https://github.com/udellgroup/Codes-of-FGSR-for-effecient-low-rank-ma
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
+image: 
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
   preview_only: false

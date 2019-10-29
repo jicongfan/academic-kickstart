@@ -50,7 +50,7 @@ social:
   link: https://scholar.google.com/citations?user=vdJsnhIAAAAJ&hl=zh-CN&authuser=1
 - icon: github
   icon_pack: fab
-  link: https://github.com/MachineLearningRick
+  link: https://github.com/jicongfan
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
