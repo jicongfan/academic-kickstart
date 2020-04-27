@@ -17,7 +17,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE Transactions on Neural Networks and Learning System"
-publication_short: "TNNLS"
+publication_short: "IEEE Transactions on Neural Networks and Learning System"
 
 abstract: "Robust principal component analysis (RPCA) can recover low-rank matrices when they are corrupted by sparse noises. In practice, many matrices are, however, of high-rank and hence cannot be recovered by RPCA. We propose a novel method called robust kernel principal component analysis (RKPCA) to decompose a partially corrupted matrix as a sparse matrix plus a high or full-rank matrix with low latent dimensionality. RKPCA can be applied to many problems such as noise removal and subspace clustering and is still the only unsupervised nonlinear method robust to sparse noises. Our theoretical analysis shows that, with high probability, RKPCA can provide high recovery accuracy. The optimization of RKPCA involves nonconvex and indifferentiable problems. We propose two nonconvex optimization algorithms for RKPCA. They are alternating direction method of multipliers with backtracking line search and proximal linearized minimization with adaptive step size. Comparative studies in noise removal and robust subspace clustering corroborate the effectiveness and superiority of RKPCA."
 

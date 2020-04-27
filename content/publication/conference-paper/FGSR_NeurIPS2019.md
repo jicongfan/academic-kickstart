@@ -38,10 +38,10 @@ featured: true
 
 links:
 
-url_pdf: '/static/pdf/FGSR'
+url_pdf: 'pdf/FGSR.pdf'
 url_code: 'https://github.com/udellgroup/Codes-of-FGSR-for-effecient-low-rank-matrix-recovery'
 # url_dataset: '#'
-# url_poster: '#'
+url_poster: 'poster/FGSR.pdf'
 # url_project: ''
 # url_slides: ''
 # url_source: '#'

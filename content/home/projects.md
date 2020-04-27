@@ -28,6 +28,10 @@ subtitle = ""
    [[content.filter_button]]
      name = "Recommendation System"
      tag = "*"
+  
+    [[content.filter_button]]
+    name = "Nonsmooth Optimization"
+    tag = "*"
      
   [[content.filter_button]]
     name = "Deep Learning"
@@ -38,15 +42,7 @@ subtitle = ""
     tag = "*"
     
   [[content.filter_button]]
-    name = "Image Processing"
-    tag = "*" 
-    
-  [[content.filter_button]]
     name = "Semi-supervised Learning"
-    tag = "*"
-    
-  [[content.filter_button]]
-    name = "Dimensionality Reduction"
     tag = "*"
 
 [[content.filter_button]]
@@ -54,12 +50,10 @@ subtitle = ""
     tag = "*"
     
     [[content.filter_button]]
-    name = "Statistical Process Control"
+    name = "Automatic Machine Learning"
     tag = "*"
     
-    [[content.filter_button]]
-    name = "Neuro Signal Processing"
-    tag = "*"
+
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -85,8 +79,8 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
+  #gradient_start = "DeepSkyBlue"
+  #gradient_end = "SkyBlue"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.

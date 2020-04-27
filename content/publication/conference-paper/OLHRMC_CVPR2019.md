@@ -39,9 +39,9 @@ featured: true
 links:
 
 url_pdf: http://openaccess.thecvf.com/content_CVPR_2019/papers/Fan_Online_High_Rank_Matrix_Completion_CVPR_2019_paper.pdf
-url_code: 'https://github.com/MachineLearningRick/Online-high-rank-matrix-completion'
+url_code: 'https://github.com/jicongfan/Online-high-rank-matrix-completion'
 # url_dataset: '#'
-# url_poster: '#'
+url_poster: 'poster/OLHRMC.pdf'
 # url_project: ''
 # url_slides: '#'
 
